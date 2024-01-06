@@ -40,7 +40,7 @@ public class SpringSecurityApplication {
 //
 //           User user1 =new User(null,"hunghx",
 //                   passwordEncoder().encode("hung1234")
-//                   ,"Hồ Xuân Hùng","hunghx@gmail.com",true,
+//                   ,"Hồ Xuân Hùng",null,"hunghx@gmail.com",true,
 //                   sff.parse("1999/10/10"),new HashSet<>()
 //           );
 //
@@ -50,7 +50,7 @@ public class SpringSecurityApplication {
 //
 //           User user2 =new User(null,"sonth",
 //                   passwordEncoder().encode("sonsoi123")
-//                   ,"Trần Hồng Sơn","sontx@gmail.com",true,
+//                   ,"Trần Hồng Sơn",null,"sontx@gmail.com",true,
 //                   sff.parse("1998/1/1"),new HashSet<>()
 //           );
 //
